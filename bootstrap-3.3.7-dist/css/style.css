@@ -15,14 +15,20 @@ body{
 .navbar-brand h1{
     color: black;
 }
-
+.navbar-collapse{
+    padding-right: 15px;
+    padding-left: 15px;
+}
 .nav{
     display: static;
     width: 100vw;
     background-color: lightblue;
     padding: 10px;
 }
-
+#nav-list{
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
 #menu-head{
     font-size: x-large;
     color: black;
